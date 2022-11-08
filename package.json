@@ -1,0 +1,19 @@
+{
+  "name": "ITteacherGS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-telegram-bot-api": "0.54.0",
+    "nodemon": "^2.0.14"
+  },
+  "type": "module"
+}
